@@ -1,6 +1,6 @@
 ---
 # Server
-server_ip: "159.89.27.107"
+server_ip: "161.35.30.115"
 domain_name: "cloud1hh.duckdns.org"
 
 # App directories on the remote server
